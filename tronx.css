@@ -1,9 +1,0 @@
-/* tronx.css — light styling for redirect/transfer page */
-.hero { display:flex; align-items:center; justify-content:center; min-height:60vh; }
-.card { text-align:center; padding:24px; border-radius:16px; border:1px solid var(--border); background:var(--card); }
-#relayStatus { font-weight:600; margin-bottom:6px; color:var(--muted); }
-#relayNote { font-size:13px; color: var(--muted); }
-.hero .row.gap { margin-top:20px; }
-#repoLink { min-width:120px; text-align:center; }
-.skip-link { position:absolute; top:-40px; left:0; background:var(--accent); color:#04251a; padding:8px 14px; border-radius:8px; z-index:100; }
-.skip-link:focus { top:10px; }
